@@ -1,0 +1,24 @@
+{
+  "author": "Tim Atkinson <timisbusy@gmail.com> (http://timisbusy.com)",
+  "name": "cachon",
+  "description": "Redis cache get or create simplifier.",
+  "version": "0.0.0",
+  "homepage": "https://github.com/timisbusy/cachon",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/timisbusy/cachon.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "hiredis": "0.1.14",
+    "redis": "0.8.2"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
