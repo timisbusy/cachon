@@ -1,7 +1,7 @@
 {
   "author": "Tim Atkinson <timisbusy@gmail.com> (http://timisbusy.com)",
   "name": "cachon",
-  "description": "Redis cache get or create simplifier.",
+  "description": "Redis cache for lazies.",
   "version": "0.0.0",
   "homepage": "https://github.com/timisbusy/cachon",
   "repository": {
