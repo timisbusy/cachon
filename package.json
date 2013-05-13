@@ -2,7 +2,7 @@
   "author": "Tim Atkinson <timisbusy@gmail.com> (http://timisbusy.com)",
   "name": "cachon",
   "description": "Redis cache for lazies.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/timisbusy/cachon",
   "repository": {
     "type": "git",
