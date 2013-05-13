@@ -12,7 +12,6 @@ var Cachon =  function Cachon (client, options) {
     if (client.ready) {
       client.get(key, function (err, val) {
         if (err) {
-          console.log(err);
           return cb(err);
         }
         if (!val) {
