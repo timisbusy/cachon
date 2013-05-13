@@ -18,7 +18,6 @@
   "dependencies": {
   },
   "devDependencies": {
-    "hiredis": "0.1.14",
     "redis": "0.8.2"
   },
   "optionalDependencies": {}
