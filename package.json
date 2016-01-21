@@ -8,6 +8,7 @@
     "type": "git",
     "url": "git://github.com/timisbusy/cachon.git"
   },
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
     "test": "node test/test.js"
